@@ -1,6 +1,6 @@
 package com.hellozjf.study.jpa.controller;
 
-import com.hellozjf.study.jpa.domain.Parent;
+import com.hellozjf.study.jpa.dataobject.Parent;
 import com.hellozjf.study.jpa.repository.ParentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.hellozjf.study.jpa.domain;
+package com.hellozjf.study.jpa.dataobject;
 
 import lombok.Data;
 

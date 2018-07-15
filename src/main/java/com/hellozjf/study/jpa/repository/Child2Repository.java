@@ -1,6 +1,6 @@
 package com.hellozjf.study.jpa.repository;
 
-import com.hellozjf.study.jpa.domain.Child2;
+import com.hellozjf.study.jpa.dataobject.Child2;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

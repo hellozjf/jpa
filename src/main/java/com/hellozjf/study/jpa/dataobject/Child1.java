@@ -1,8 +1,7 @@
-package com.hellozjf.study.jpa.domain;
+package com.hellozjf.study.jpa.dataobject;
 
 import lombok.Data;
 
-import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 
 @Entity
